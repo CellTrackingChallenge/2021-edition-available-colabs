@@ -12,5 +12,5 @@ This repository contains Colab Notebook implementations of the following Cell Tr
 This intends to serve as a platform to facilitate researchers to reuse these codes in an easy and direct way. Links to several of the contestant's repositories are here. There you can find their whole codes and other details:
 
 
-Notebooks for MU-Ba-US, MU-Ra-US, PURD-US and MU-Lux-Cz created by Estíbaliz Gómez de Mariscal.
+*Notebooks for MU-Ba-US, MU-Ra-US, PURD-US and MU-Lux-Cz created by Estíbaliz Gómez de Mariscal.*
 
