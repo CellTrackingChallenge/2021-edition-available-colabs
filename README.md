@@ -6,6 +6,7 @@ This repository contains Colab Notebook implementations of the following Cell Tr
 - MU-Ra-US
 - PURD-US
 - MU-Lux-Cz
+- MIC-DKFZ
 
 - CALT-US
 
@@ -16,5 +17,5 @@ This intends to serve as a platform to facilitate researchers to reuse these cod
 - PURD-US: https://github.com/westgate458/XB-Net
 - MU-Lux-Cz: https://gitlab.fi.muni.cz/xlux/deepwater
 
-*Notebooks for MU-Ba-US, MU-Ra-US, PURD-US and MU-Lux-Cz created by Estíbaliz Gómez de Mariscal.*
+*Notebooks for MU-Ba-US, MU-Ra-US, PURD-US and MU-Lux-Cz created by Estíbaliz Gómez de Mariscal. Notebook for MIC-DKFZ created by Pablo Delgado Rodríguez*
 
