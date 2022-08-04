@@ -14,12 +14,12 @@ Links to the correspondent contestant's repositories are here, together with the
 
 - IGFL-FR: https://github.com/ksugar/CTC-IGFL-FR
 - KTH-SE: https://github.com/klasma/BaxterAlgorithms/tree/ctc2021
-- KIT-GE (4):https://git.scc.kit.edu/KIT-Sch-GE/2021_segmentation
+- KIT-GE (3):https://git.scc.kit.edu/KIT-Sch-GE/2021_segmentation
 - MU-CZ (2*): https://gitlab.fi.muni.cz/xlux/deepwater
 - PURD-US: https://github.com/westgate458/XB-Net
 - MU-US (4*): https://github.com/CIVA-Lab/U-SE-ResNet-for-Cell-Tracking-Challenge
 - BGU-IL (5): https://github.com/talbenha/cell-tracker-gnn
-- KIT-GE (3): https://git.scc.kit.edu/kit-loe-ge/embedtrack
+- KIT-GE (4): https://git.scc.kit.edu/kit-loe-ge/embedtrack
 - DKFZ-GE: https://github.com/MIC-DKFZ/nnUNet
  
 - MU-US (3): https://github.com/CIVA-Lab/DMNet_Rina
