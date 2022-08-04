@@ -1,5 +1,3 @@
-# 2021-edition-available-codes
-
 This repository contains Colab Notebook implementations created by the Cell Tracking Challenge Organization for the following Cell Tracking Challenge contestants, that were presented in the 2021 edition:
 
 
