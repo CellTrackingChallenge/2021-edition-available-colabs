@@ -25,5 +25,5 @@ Links to the correspondent contestant's repositories are here, together with the
 - MU-US (3): https://github.com/CIVA-Lab/DMNet_Rina
 
 
-*Notebooks for MU-US (3), MU-US (3), PURD-US and MU-CZ (2*) created by Estíbaliz Gómez de Mariscal. Notebook for DKFZ-GE created by Pablo Delgado Rodríguez*
+*Notebooks for MU-US (3), MU-US (4*), PURD-US and MU-CZ (2*) created by Estíbaliz Gómez de Mariscal. Notebook for DKFZ-GE created by Pablo Delgado Rodríguez*
 
