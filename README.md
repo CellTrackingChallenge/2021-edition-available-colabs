@@ -1,7 +1,7 @@
 This repository contains Colab Notebook implementations for the following Cell Tracking Challenge contestants, that were presented in the 2021 edition:
 
 
-- CALT-US
+- CALT-US (*)
 - DKFZ-GE
 - MU-CZ (2*)
 - MU-US (4*)
@@ -13,7 +13,7 @@ Links to the correspondent contestant's repositories are here, together with the
 
 - BGU-IL (5): https://github.com/talbenha/cell-tracker-gnn
 - DKFZ-GE: https://github.com/MIC-DKFZ/nnUNet
-- IGFL-FR: https://github.com/ksugar/CTC-IGFL-FR
+- IGFL-FR (*): https://github.com/ksugar/CTC-IGFL-FR
 - KIT-GE (3):https://git.scc.kit.edu/KIT-Sch-GE/2021_segmentation
 - KIT-GE (4): https://git.scc.kit.edu/kit-loe-ge/embedtrack
 - KTH-SE (1*): https://github.com/klasma/BaxterAlgorithms/tree/ctc2021
