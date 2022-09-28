@@ -22,7 +22,7 @@ Respective links to the contestant's repositories are here, together with the re
 - MU-CZ (2*): https://gitlab.fi.muni.cz/xlux/deepwater
 - MU-US (4*): https://github.com/CIVA-Lab/U-SE-ResNet-for-Cell-Tracking-Challenge
 - PURD-US (*): https://github.com/westgate458/XB-Net
-- MU-US (5*): https://github.com/CIVA-Lab/DMNet_Rina/ 
+- MU-US (3*): https://github.com/CIVA-Lab/DMNet_Rina/ 
 
 *Notebooks for CALT-US (*), MU-US (4**), PURD-US and MU-CZ (2**) created by Estibaliz Gómez de Mariscal. Notebook for DKFZ-GE created by Pablo Delgado Rodríguez*
 
